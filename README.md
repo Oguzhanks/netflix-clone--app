@@ -1,2 +1,3 @@
-# netflix-clone--app
-Netflix Clone - Flutter Project ( Best practices )
+# netflix_clone_app
+
+A new Flutter project.
